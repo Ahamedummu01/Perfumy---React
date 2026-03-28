@@ -1,8 +1,8 @@
 
-import Footer from "./components/Navbar"
-import Footer from "./components/Search"
-import Footer from "./components/Product"
-import Footer from "./components/About"
+import Navbar from "./components/Navbar"
+import Search from "./components/Search"
+import Product from "./components/Product"
+import About from "./components/About"
 
 
 import Footer from "./components/Footer"
